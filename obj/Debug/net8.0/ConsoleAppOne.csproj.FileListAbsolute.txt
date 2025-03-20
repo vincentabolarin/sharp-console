@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\bin\Debug\net8.0\ConsoleAppOne.exe
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\bin\Debug\net8.0\ConsoleAppOne.deps.json
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\bin\Debug\net8.0\ConsoleAppOne.runtimeconfig.json
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\bin\Debug\net8.0\ConsoleAppOne.dll
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\bin\Debug\net8.0\ConsoleAppOne.pdb
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\obj\Debug\net8.0\ConsoleAppOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\obj\Debug\net8.0\ConsoleAppOne.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\obj\Debug\net8.0\ConsoleAppOne.AssemblyInfo.cs
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\obj\Debug\net8.0\ConsoleAppOne.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\obj\Debug\net8.0\ConsoleAppOne.dll
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\obj\Debug\net8.0\refint\ConsoleAppOne.dll
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\obj\Debug\net8.0\ConsoleAppOne.pdb
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\obj\Debug\net8.0\ConsoleAppOne.genruntimeconfig.cache
+C:\Users\HP\Documents\Courses\C#\MyConsoleApps\ConsoleAppOne\obj\Debug\net8.0\ref\ConsoleAppOne.dll

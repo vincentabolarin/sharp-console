@@ -11,11 +11,13 @@ public class DataTypes
         Console.WriteLine(long.MaxValue);
 
         string ageText = "2";
-        int age = Convert.ToInt32(ageText);
+        //int age = Convert.ToInt32(ageText);
+        var age = Convert.ToInt32(ageText);
         Console.WriteLine(age);
 
         string bigNumberText = "-14500000000";
-        long bigNumber = Convert.ToInt64(bigNumberText);
+        //long bigNumber = Convert.ToInt64(bigNumberText);
+        var bigNumber = Convert.ToInt64(bigNumberText);
         Console.WriteLine(bigNumber);
 
         string negativeText = "-23.4";

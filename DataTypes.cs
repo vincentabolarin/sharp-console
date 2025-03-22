@@ -35,5 +35,10 @@ public class DataTypes
         bool isActive = false;
         Console.Write("Is account active? ");
         Console.WriteLine(isActive ? "Yes!" : "No!");
+
+        const int vat = 25;
+        int balance = 500;
+        double percentageVAT = balance * vat / 100;
+        Console.WriteLine(percentageVAT);
     }
 }
